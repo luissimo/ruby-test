@@ -36,4 +36,4 @@ puts alphabetize(numbers, true)
 
 ############################################################
 
-# >> METHOD #2 << ALPHABETIZE A-Z / 1 - 99 && Z-A 99 - 1
+# >> METHOD #2
